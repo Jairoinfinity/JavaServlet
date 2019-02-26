@@ -1,0 +1,5 @@
+<INICIO>
+nameUsuario:Jairo
+nameApellidos:Bernal
+nameTelefono:123456789
+<FIN>

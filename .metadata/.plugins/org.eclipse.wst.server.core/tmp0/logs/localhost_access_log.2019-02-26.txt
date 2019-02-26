@@ -1,0 +1,15 @@
+127.0.0.1 - - [26/Feb/2019:10:12:45 +0100] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:12:46 +0100] "GET /PoolConexiones/ HTTP/1.1" 200 548
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:20:31 +0100] "GET /PoolConexiones/login?usuario=usuario1&password=usuario1&Acceder=Enviar+consulta HTTP/1.1" 200 289
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:20:41 +0100] "GET /PoolConexiones/hazalgo HTTP/1.1" 200 213
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:20:43 +0100] "GET /PoolConexiones/logout HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:20:45 +0100] "GET /PoolConexiones/index.html HTTP/1.1" 200 548
+127.0.0.1 - - [26/Feb/2019:10:33:42 +0100] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:33:43 +0100] "GET /AccesoDatosJSP/ HTTP/1.1" 404 1013
+127.0.0.1 - - [26/Feb/2019:10:34:25 +0100] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:34:25 +0100] "GET /LibreriaMVC/ HTTP/1.1" 200 1034
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:34:51 +0100] "POST /LibreriaMVC/shopping HTTP/1.1" 200 1861
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:34:53 +0100] "POST /LibreriaMVC/shopping HTTP/1.1" 200 1034
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:34:57 +0100] "POST /LibreriaMVC/shopping HTTP/1.1" 500 1663
+127.0.0.1 - - [26/Feb/2019:10:35:18 +0100] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:10:35:19 +0100] "GET /LibreriaMVC/ HTTP/1.1" 200 1034
